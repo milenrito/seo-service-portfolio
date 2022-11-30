@@ -1,0 +1,42 @@
+.card__item{
+    width:20%;
+}
+
+.form .contact{
+    max-width: 90%;
+}
+
+.contact .header{
+    width:22%;
+}
+
+.contact .form{
+    width:50%
+}
+
+.contact .information{
+    width:20%;
+}
+
+.contact .information .address{
+    display:block;
+    width:100%;
+}
+
+.contact__social{
+    display: flex;
+}
+
+.information{
+    order:2;
+}
+
+.form{
+    order:3;
+}
+
+.information__social{
+    display: none;
+}
+
+   
